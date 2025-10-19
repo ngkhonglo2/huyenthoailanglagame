@@ -2156,7 +2156,7 @@ body.wpage ::-webkit-scrollbar-thumb:hover {
 @media only screen and (min-width:1200px) {
   .each__shopVIp .name__topSV {
     gap: 0 15px;
-    font-size: clamp(14px, 1.9vw, 28px)
+    font-size: clamp(14px, 1.9vw, 26px)
   }
 }
 
